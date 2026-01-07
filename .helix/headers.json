@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "path": "/**",
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    }
+  ]
+}
+
