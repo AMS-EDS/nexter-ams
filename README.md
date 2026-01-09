@@ -32,3 +32,4 @@ There is no step 3.
 
 ## Integration guide (advanced)
 At it's core, Nexter is just another Edge Delivery project. You can start with the basic integration and then progressively add Nexter features like blocks. You can do this using a typical Edge Delivery project, or you can bring your own HTML as long as you follow Edge Delivery semantics. The following goes beyond the basic integration.
+# Updated to trigger config regen
