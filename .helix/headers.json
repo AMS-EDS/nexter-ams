@@ -1,11 +1,1 @@
-{
-  "data": [
-    {
-      "path": "/**",
-      "key": "Access-Control-Allow-Origin",
-      "value": "*"
-    }
-  ]
-}
-
-
+{"total":2,"offset":0,"limit":2,"data":[{"url":"url","key":"key","value":"value"},{"url":"/**","key":"access-control-allow-origin","value":"*"}],":type":"sheet"}
